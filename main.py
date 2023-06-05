@@ -4,7 +4,7 @@ import subprocess
 import platform
 from colorama import Fore, Style
 
-#* Dependencias:
+#* Dependencia para mostrar el texto de color:
 #* pip install colorama
 
 def is_pingable(ip):
